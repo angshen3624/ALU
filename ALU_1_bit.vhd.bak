@@ -1,0 +1,39 @@
+
+Library ieee;
+use ieee.std_logic_1164.all;
+use work.eecs361_gates.all;
+use work.eecs361.all;
+
+entity alu_1_bit is
+    port(A, B   : in std_logic; 
+         -- 'X00' for 1_bit_adder, '0X1' for and, '1X1' for or, 'X10' for stl/sltu
+         sel    : in std_logic_vector(2 downto 0); 
+         cin    : in std_logic;
+         inv    : in std_logic;
+         less   : in std_logic;
+         result : out std_logic;
+         cout   : out std_logic;
+         temp   : out std_logic
+         );
+end alu_1_bit;
+
+architecture structure of alu_1_bit is
+component full_adder is
+    port(in1, in2, c_in: in std_logic;
+         sum, c_out: out std_logic);
+end component full_adder;
+ 
+signal w1, w2, w3, w4, w5, w6: std_logic; 
+begin
+  G1: and_gate port map(A, B, w1);
+  G2: or_gate port map(A, B, w2);
+  G3: xor_gate port map(inv, B, w3);
+  G4: full_adder port map(A, w3, cin, w4, cout);
+  G5: mux port map(sel(2), w1, w2, w5);
+  G6: mux port map(sel(1), w4, less, w6);
+  G7: mux port map(sel(0), w6, w5, result);
+  temp <= w4
+  
+end structure;
+
+

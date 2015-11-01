@@ -1,0 +1,102 @@
+
+
+library ieee;
+use ieee.std_logic_1164.all;
+use work.eecs361.all;
+
+entity alu_1bit_test is
+end alu_1bit_test;
+
+architecture alu_1bit_test_my of alu_1bit_test is
+  
+signal A_t, B_t  : std_logic; 
+signal sel_t     : std_logic_vector(2 downto 0); 
+signal cin_t     : std_logic;
+signal inv_t     : std_logic;
+signal less_t    : std_logic;
+signal result_t  : std_logic;
+signal cout_t    : std_logic;
+
+component alu_1_bit is
+    port(A, B   : in std_logic; 
+         -- 'X00' for 1_bit_adder, '0X1' for and, '1X1' for or, 'X10' for stl/sltu
+         sel    : in std_logic_vector(2 downto 0); 
+         cin    : in std_logic;
+         inv    : in std_logic;
+         less   : in std_logic;
+         result : out std_logic;
+         cout   : out std_logic);
+end component;
+
+begin
+  test_port : 
+    alu_1_bit port map(A => A_t,
+                       B => B_t,
+                       sel => sel_t,
+                       cin => cin_t,
+                       inv => inv_t,
+                       less => less_t,
+                       result => result_t,
+                       cout => cout_t);
+  test_bench : process
+  begin
+     -- 'X00' for 1_bit_adder, '0X1' for and, '1X1' for or, 'X10' for stl/sltu
+     -- #1 ADD
+     sel_t <= "000";
+     A_t <= '1';
+     B_t <= '1';
+     cin_t <= '1';
+     inv_t <= '0';
+     less_t <= '0';
+     wait for 10 ns;
+     
+     -- #2 SUB
+     sel_t <= "100";
+     A_t <= '1';
+     B_t <= '0';
+     cin_t <= '1';
+     inv_t <= '0';
+     less_t <= '0';
+     wait for 10 ns;
+     
+     -- #3 AND
+     sel_t <= "001";
+     A_t <= '1';
+     B_t <= '0';
+     cin_t <= '1';
+     inv_t <= '0';
+     less_t <= '0';
+     wait for 10 ns;
+     
+     -- #4 OR
+     sel_t <= "111";
+     A_t <= '1';
+     B_t <= '0';
+     cin_t <= '1';
+     inv_t <= '0';
+     less_t <= '0';
+     wait for 10 ns;
+     
+     -- #5 SLT/SLTU set
+     sel_t <= "010";
+     A_t <= '1';
+     B_t <= '0';
+     cin_t <= '1';
+     inv_t <= '0';
+     less_t <= '1';
+     wait for 10 ns;
+     
+     -- #6 SLT/SLTU noSet
+     sel_t <= "010";
+     A_t <= '1';
+     B_t <= '0';
+     cin_t <= '1';
+     inv_t <= '0';
+     less_t <= '0';
+     wait for 10 ns;
+     
+     
+  end process;
+  
+end architecture;
+  

@@ -1,0 +1,618 @@
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# 44 compiles, 0 failed with no errors. 
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd failed with 1 errors.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# 44 compiles, 1 failed with 1 error. 
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd failed with 1 errors.
+# Compile of shift_left.vhd was successful.
+# 44 compiles, 1 failed with 1 error. 
+# Compile of alu_32_bit_t.vhd failed with 1 errors.
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# 44 compiles, 0 failed with no errors. 
+vsim -gui work.alu_test
+# vsim -gui work.alu_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eecs361_gates
+# Loading work.eecs361
+# Loading work.alu_test(alu_test_my)
+# Loading work.alu(structure)
+# Loading work.not_gate(dataflow)
+# Loading work.and_gate(dataflow)
+# Loading work.mux(structural)
+# Loading work.mux_n(behavioral)
+# Loading work.alu_1_bit(structure)
+# Loading work.or_gate(dataflow)
+# Loading work.xor_gate(dataflow)
+# Loading work.full_adder(structural)
+# Loading work.half_adder(structural)
+# Loading work.shift_left(structure)
+# Loading work.nor_gate_32to1(structure)
+# Loading work.mux_32(structural)
+# ** Warning: Design size of 13999 statements exceeds ModelSim Altera Starter recommended capacity.
+# Expect performance to be adversely affected.
+add wave -r sim:/alu_test/*
+run
+quit -sim
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# Compile of alu_ctrl.vhd failed with 1 errors.
+# 45 compiles, 1 failed with 1 error. 
+# Compile of alu_ctrl.vhd failed with 1 errors.
+# Compile of alu_ctrl.vhd failed with 1 errors.
+# Compile of alu_ctrl.vhd failed with 1 errors.
+# Compile of alu_ctrl.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd failed with 1 errors.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# 45 compiles, 1 failed with 1 error. 
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# 45 compiles, 0 failed with no errors. 
+vsim -gui work.alu_test
+# vsim -gui work.alu_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eecs361_gates
+# Loading work.eecs361
+# Loading work.alu_test(alu_test_my)
+# Loading work.alu(structure)
+# Loading work.alu_ctrl(structural)
+# Loading work.not_gate(dataflow)
+# Loading work.and_gate(dataflow)
+# Loading work.or_gate(dataflow)
+# Loading work.mux(structural)
+# Loading work.mux_n(behavioral)
+# Loading work.alu_1_bit(structure)
+# Loading work.xor_gate(dataflow)
+# Loading work.full_adder(structural)
+# Loading work.half_adder(structural)
+# Loading work.shift_left(structure)
+# Loading work.nor_gate_32to1(structure)
+# Loading work.mux_32(structural)
+# ** Warning: Design size of 14340 statements exceeds ModelSim Altera Starter recommended capacity.
+# Expect performance to be adversely affected.
+add wave -r sim:/alu_test/*
+run
+quit -sim
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# 45 compiles, 0 failed with no errors. 
+vsim -gui work.alu_test
+# vsim -gui work.alu_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eecs361_gates
+# Loading work.eecs361
+# Loading work.alu_test(alu_test_my)
+# Loading work.alu(structure)
+# Loading work.alu_ctrl(structural)
+# Loading work.not_gate(dataflow)
+# Loading work.and_gate(dataflow)
+# Loading work.or_gate(dataflow)
+# Loading work.mux(structural)
+# Loading work.mux_n(behavioral)
+# Loading work.alu_1_bit(structure)
+# Loading work.xor_gate(dataflow)
+# Loading work.full_adder(structural)
+# Loading work.half_adder(structural)
+# Loading work.shift_left(structure)
+# Loading work.nor_gate_32to1(structure)
+# Loading work.mux_32(structural)
+# ** Warning: Design size of 14340 statements exceeds ModelSim Altera Starter recommended capacity.
+# Expect performance to be adversely affected.
+add wave -r sim:/alu_test/*
+run
+quit -sim
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# 45 compiles, 0 failed with no errors. 
+vsim -gui work.alu_test
+# vsim -gui work.alu_test 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.eecs361_gates
+# Loading work.eecs361
+# Loading work.alu_test(alu_test_my)
+# Loading work.alu(structure)
+# Loading work.alu_ctrl(structural)
+# Loading work.not_gate(dataflow)
+# Loading work.and_gate(dataflow)
+# Loading work.or_gate(dataflow)
+# Loading work.mux(structural)
+# Loading work.mux_n(behavioral)
+# Loading work.alu_1_bit(structure)
+# Loading work.xor_gate(dataflow)
+# Loading work.full_adder(structural)
+# Loading work.half_adder(structural)
+# Loading work.shift_left(structure)
+# Loading work.nor_gate_32to1(structure)
+# Loading work.mux_32(structural)
+# ** Warning: Design size of 14359 statements exceeds ModelSim Altera Starter recommended capacity.
+# Expect performance to be adversely affected.
+add wave -r sim:/alu_test/*
+run
+# WARNING: No extended dataflow license exists
+quit -sim
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# 45 compiles, 0 failed with no errors. 
+# Compile of and_gate.vhd was successful.
+# Compile of and_gate_32.vhd was successful.
+# Compile of and_gate_n.vhd was successful.
+# Compile of cmp_n.vhd was successful.
+# Compile of csram.vhd was successful.
+# Compile of dec_n.vhd was successful.
+# Compile of dff.vhd was successful.
+# Compile of dffr.vhd was successful.
+# Compile of dffr_a.vhd was successful.
+# Compile of eecs361.vhd was successful.
+# Compile of eecs361_gates.vhd was successful.
+# Compile of fulladder_32.vhd was successful.
+# Compile of fulladder_n.vhd was successful.
+# Compile of mux.vhd was successful.
+# Compile of mux_32.vhd was successful.
+# Compile of mux_n.vhd was successful.
+# Compile of nand_gate.vhd was successful.
+# Compile of nand_gate_32.vhd was successful.
+# Compile of nand_gate_n.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_32.vhd was successful.
+# Compile of nor_gate_n.vhd was successful.
+# Compile of not_gate.vhd was successful.
+# Compile of not_gate_32.vhd was successful.
+# Compile of not_gate_n.vhd was successful.
+# Compile of or_gate.vhd was successful.
+# Compile of or_gate_32.vhd was successful.
+# Compile of or_gate_n.vhd was successful.
+# Compile of sram.vhd was successful.
+# Compile of syncram.vhd was successful.
+# Compile of xnor_gate.vhd was successful.
+# Compile of xnor_gate_32.vhd was successful.
+# Compile of xnor_gate_n.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_32.vhd was successful.
+# Compile of xor_gate_n.vhd was successful.
+# Compile of full_adder.vhd was successful.
+# Compile of half_adder.vhd was successful.
+# Compile of alu_32_bit.vhd was successful.
+# Compile of alu_1_bit.vhd was successful.
+# Compile of nor_gate_32to1.vhd was successful.
+# Compile of alu_1_bit_t.vhd was successful.
+# Compile of alu_32_bit_t.vhd was successful.
+# Compile of shift_left.vhd was successful.
+# Compile of alu_ctrl.vhd was successful.
+# 45 compiles, 0 failed with no errors. 

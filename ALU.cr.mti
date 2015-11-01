@@ -1,0 +1,384 @@
+C:/Users/Ang/Desktop/Project1/eecs361lib/lib/dff.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/dff.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dff
+-- Compiling architecture behavioral of dff
+
+} {} {}} C:/Users/Ang/Desktop/Project1/alu_32_bit_t.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/alu_32_bit_t.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity alu_test
+-- Compiling architecture alu_test_my of alu_test
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xor_gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture dataflow of xor_gate
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nand_gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nand_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate
+-- Compiling architecture dataflow of nand_gate
+
+} {} {}} C:/Users/Ang/Desktop/Project1/shift_left.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/shift_left.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity shift_left
+-- Compiling architecture structure of shift_left
+
+} {} {}} C:/Users/Ang/Desktop/Project1/alu_1_bit.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/alu_1_bit.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity alu_1_bit
+-- Compiling architecture structure of alu_1_bit
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/mux.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/mux.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux
+-- Compiling architecture structural of mux
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/dffr.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/dffr.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dffr
+-- Compiling architecture behavioral of dffr
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xnor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xnor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_32
+-- Compiling architecture dataflow of xnor_gate_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/sram.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/sram.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity sram
+-- Compiling architecture behavioral of sram
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/and_gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/and_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture dataflow of and_gate
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xnor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xnor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate_n
+-- Compiling architecture dataflow of xnor_gate_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/half_adder.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/half_adder.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity half_adder
+-- Compiling architecture structural of half_adder
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_32
+-- Compiling architecture dataflow of xor_gate_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/syncram.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/syncram.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity syncram
+-- Compiling architecture behavioral of syncram
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nand_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nand_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_32
+-- Compiling architecture dataflow of nand_gate_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/eecs361_gates.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/eecs361_gates.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package eecs361_gates
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate_n
+-- Compiling architecture dataflow of xor_gate_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nand_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nand_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nand_gate_n
+-- Compiling architecture dataflow of nand_gate_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/csram.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/csram.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Compiling entity csram
+-- Compiling architecture behavioral of csram
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nor_gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture dataflow of nor_gate
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/mux_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/mux_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_n
+-- Compiling architecture behavioral of mux_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/fulladder_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/fulladder_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fulladder_32
+-- Compiling architecture behavioral of fulladder_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/and_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/and_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_32
+-- Compiling architecture dataflow of and_gate_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/alu_ctrl.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/alu_ctrl.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity alu_ctrl
+-- Compiling architecture structural of alu_ctrl
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/fulladder_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/fulladder_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity fulladder_n
+-- Compiling architecture behavioral of fulladder_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/and_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/and_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_n
+-- Compiling architecture dataflow of and_gate_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/nor_gate_32to1.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/nor_gate_32to1.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity nor_gate_32to1
+-- Compiling architecture structure of nor_gate_32to1
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/or_gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/or_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture dataflow of or_gate
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/not_gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/not_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate
+-- Compiling architecture dataflow of not_gate
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/dec_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/dec_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dec_n
+-- Compiling architecture behavioral of dec_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/dffr_a.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/dffr_a.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dffr_a
+-- Compiling architecture behavioral of dffr_a
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/eecs361.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/eecs361.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling package eecs361
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nor_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nor_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_32
+-- Compiling architecture dataflow of nor_gate_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/full_adder.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/full_adder.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Compiling entity full_adder
+-- Compiling architecture structural of full_adder
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nor_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/nor_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_n
+-- Compiling architecture dataflow of nor_gate_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/alu_1_bit_t.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/alu_1_bit_t.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity alu_1bit_test
+-- Compiling architecture alu_1bit_test_my of alu_1bit_test
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/or_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/or_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_32
+-- Compiling architecture dataflow of or_gate_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/not_gate_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/not_gate_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_32
+-- Compiling architecture dataflow of not_gate_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/cmp_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/cmp_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cmp_n
+-- Compiling architecture behavioral of cmp_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/or_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/or_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate_n
+-- Compiling architecture dataflow of or_gate_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/not_gate_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/not_gate_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not_gate_n
+-- Compiling architecture dataflow of not_gate_n
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/mux_32.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/mux_32.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package eecs361_gates
+-- Loading package eecs361
+-- Compiling entity mux_32
+-- Compiling architecture structural of mux_32
+
+} {} {}} C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xnor_gate.vhd {1 {vcom -work work -2002 -explicit C:/Users/Ang/Desktop/Project1/eecs361lib/lib/xnor_gate.vhd
+Model Technology ModelSim ALTERA vcom 10.1e Compiler 2013.06 Jun 12 2013
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xnor_gate
+-- Compiling architecture dataflow of xnor_gate
+
+} {} {}}
